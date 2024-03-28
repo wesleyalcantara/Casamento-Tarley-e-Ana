@@ -1,0 +1,23 @@
+# Próximos arquivos específicos
+.next/
+out/
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos de log
+*.log
+
+# Diretórios de dependências
+node_modules/
+
+# Arquivos de ambiente
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Arquivos de erro do IDE
+.vscode/
+.idea/
