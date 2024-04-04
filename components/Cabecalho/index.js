@@ -6,11 +6,11 @@ export function Cabecalho () {
     return(
         <div className="p-5"> 
             <ul className="flex flex-row gap-5 justify-center font-bold">
-                <a href="/home">Home</a>
+                <a href="/">Home</a>
                 <li>|</li>
-                <a href="/home">Padrinhos</a>
+                <a href="/padrinhos">Padrinhos</a>
                 <li>|</li>
-                <a href="/home">Presentes</a>
+                <a href="/presentes">Presentes</a>
             </ul>
         </div>
     )
