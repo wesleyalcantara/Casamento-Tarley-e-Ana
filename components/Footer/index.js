@@ -8,16 +8,16 @@ export default function Footer() {
                 Instagram dos noivos
             </h3>
             <p className="flex flex-row gap-2">
-                <a href="https://www.instagram.com/">
+                <a href="https://www.instagram.com/tarleybatista?igsh=MWcweW56MWF3cXJjbQ==">
                     <Icon name="instagram" />
                 </a>
-                @tarley.alcantara
+                @tarleybatista
             </p>
             <p className="flex flex-row gap-2">
-                <a href="https://www.instagram.com/">
+                <a href="https://www.instagram.com/ana_flavia650?igsh=MW9wYzY5ODkzbGF2Nw==">
                     <Icon name="instagram" />
                 </a>
-                @ana.flavia
+                @ana_flavia650
             </p>
         </div>
         <div className="w-full">
