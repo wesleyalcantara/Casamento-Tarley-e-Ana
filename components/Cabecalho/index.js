@@ -10,7 +10,7 @@ export function Cabecalho () {
                 <li>|</li>
                 <a href="/padrinhos">Padrinhos</a>
                 <li>|</li>
-                <a href="/presentes">Presentes</a>
+                <a href="https://site.lejour.com.br/lista-de-presentes/presentestarleyeana">Presentes</a>
             </ul>
         </div>
     )
