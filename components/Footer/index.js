@@ -2,8 +2,8 @@ import Icon from "../Icon/Icon.jsx";
 
 export default function Footer() {
     return (
-    <div className="mt-10 bg-pink-400 text-white flex justify-center items-start flex-col">
-        <div className="flex flex-col ml-5 gap-2 mb-2">
+    <div className="mt-10 bg-pink-200 text-gray-800 flex justify-center items-start flex-col">
+        <div className="flex flex-col ml-5 gap-1 mb-4">
             <h3 className="font-bold my-2">
                 Instagram dos noivos
             </h3>
@@ -21,7 +21,7 @@ export default function Footer() {
             </p>
         </div>
         <div className="w-full">
-        <div className=" bg-pink-400 px-5">
+        <div className=" bg-gray-400 px-5 text-sm">
             <p>
                 <ul>
                     <li>Desenvolvido por: Wesley Batista Alcantara</li>
